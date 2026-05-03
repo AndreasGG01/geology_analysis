@@ -1,0 +1,9 @@
+# Python environment
+.conda/
+__pycache__/
+*.pyc
+
+# Logs and Data
+*.log
+*.csv
+.DS_Store
